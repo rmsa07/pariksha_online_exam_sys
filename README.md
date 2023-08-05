@@ -1,4 +1,4 @@
-In this project, we designed and developed software for a 10-question online exam system.
+In this project, we designed and developed software for  online exam system.
 Users can mark questions for review while navigating to results and
 click the Next button to advance to the next question. 
 The online exam system meets the institution's requirements for conducting exams online.
